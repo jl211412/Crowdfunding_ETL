@@ -19,4 +19,5 @@ The challenge deliverables are located in the SurfsUp folder under sqlalchemy-ch
 1. Part 1: climate_starter.ipynb<br>
 2. Part 2: app.py<br>
 
-![image](https://github.com/jl211412/Crowdfunding_ETL/assets/128498023/f3145567-b670-4465-866b-4ca8b423f830)
+![image](https://github.com/jl211412/Crowdfunding_ETL/assets/128498023/1c98bf19-3332-43f4-b868-085ce458510a)
+
