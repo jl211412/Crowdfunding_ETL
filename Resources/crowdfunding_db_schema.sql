@@ -1,9 +1,11 @@
-﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
+﻿--------------------------------------
+-- ETL mini project
+-- Charles Quinn and Jackie Larios
+--------------------------------------
 
--- Modify this code to update the DB schema diagram.
--- To reset the sample schema, replace everything with
--- two dots ('..' - without quotes).
+-- Create crowdfunding_db postgres database
+-- and load category, subcategory, contacts, and campaign
+-- tables then perform select statements against the data
 
 CREATE TABLE "category" (
     "category_id" varchar   NOT NULL,
