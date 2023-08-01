@@ -1,6 +1,6 @@
 # Data Analytics Bootcamp - Module 10 Challenge
-# ETL mini project
-# Charles Quinn and Jackie Larios
+<b>ETL mini project</b><br>
+<b>Charles Quinn and Jackie Larios</b><br>
 
 <b>Challenge Description:</b><br>
 Build an ETL pipeline using Python, Pandas, and regular expressions to extract and transform the data. Create four CSV files and use the CSV file data to create an ERD, table schema, and postgres database.<br>
